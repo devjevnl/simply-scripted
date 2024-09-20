@@ -1,2 +1,2 @@
-# simply-scripted
-This repo contains all kind of handy scripts
+# Repo has been moved
+Thecontent of this repo is managed by myself a few others at: https://github.com/thecloudexplorers/simply-scripted
